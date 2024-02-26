@@ -1,4 +1,4 @@
-# [JavaScript_Mastery](https://www.youtube.com/watch?v=pUNSHPyVryU&list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3&index=3) course, where I create a cart showcase, using NextJs 14.
+### [JavaScript_Mastery](https://www.youtube.com/watch?v=pUNSHPyVryU&list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3&index=3) course, where I create a cart showcase, using NextJs 14.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
