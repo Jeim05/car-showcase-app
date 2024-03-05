@@ -202,7 +202,7 @@
 
 /* START: search manufacturer styles */
 .search-manufacturer {
-  @apply flex-1 max-sm:w-full flex justify-start items-center;
+  @apply flex-1 max-sm:w-full /* flex */ justify-start items-center;
 }
 
 .search-manufacturer__input {
@@ -216,3 +216,4 @@
 .search-manufacturer__option {
   @apply cursor-default select-none py-2 pl-10 pr-4;
 }
+/* END: search manufacturer styles */
